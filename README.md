@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2> Hi! There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**ashishsth7586/ashishsth7586** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width='200'/>
 
-Here are some ideas to get you started:
+[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/ashishsth7586) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/ashish-shrestha-146661188/) 
+ [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishsth7586@gmail.com)
+ 
+ I am Ashish Shrestha :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Tekkon Technologies](https://tekkon.com.np)
+- 📫 How to reach me: ashishsth7586@gmail.com
+
+
+[![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-Instagram-green&logo=instagram&logoColor=white)](https://www.instagram.com/_ashishsth/)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsth7586&layout=compact)](https://github.com/ashishsth7586)
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=ashishsth7586&show_icons=true) -->
