@@ -7,7 +7,7 @@
  
 I have no special talents. I am only passionately curious. </> Code
 
-- 🔭 I’m currently working on [Tekkon Technologies](https://tekkon.com.np)
+- 🔭 I’m currently working at [Tekkon Technologies](https://tekkon.com.np)
 - 📫 How to reach me: ashishsth7586@gmail.com
 
 
