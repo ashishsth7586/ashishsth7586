@@ -7,8 +7,8 @@
  
 I have no special talents. I am only passionately curious. </> Code
 
-- 🔭 I’m currently working at [Tekkon Technologies](https://tekkon.com.np)
-- 📫 How to reach me: ashishsth7586@gmail.com
+- 🔭 I’m currently working at [Zebec Protocol](https://zebec.io)
+- 📫 How to reach me: ashishsth7586@gmail.com | ashish@zebec.io
 
 
 [![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-Instagram-green&logo=instagram&logoColor=white)](https://www.instagram.com/_ashishsth/)
